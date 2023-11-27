@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">DataBinding監視オブジェクト</string>
+	<string name="tv_lb_height">縦の長さ: </string>
+	<string name="tv_lb_width">横の長さ: </string>
+	<string name="tv_lb_area">面積: </string>
+	<string name="btn_label_height">縦の長さを再生成</string>
+	<string name="btn_label_width">横の長さを再生成</string>
+</resources>
